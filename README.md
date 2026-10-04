@@ -1,4 +1,4 @@
-# 📟 Embedded Systems Engineer
+# <img src="https://api.iconify.design/mdi:integrated-circuit.svg?color=%23007acc" width="36" height="36" style="vertical-align: middle;"/> Embedded Systems Engineer
 
 Designing robust solutions across the silicon-to-board spectrum—from RTL modeling and simulation to bare-metal microcontroller firmware and custom PCB engineering.
 
