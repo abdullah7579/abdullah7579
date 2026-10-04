@@ -1,6 +1,6 @@
 # ⚡ Embedded Systems Engineer
 
-I am an Electrical Engineering undergraduate specializing in digital hardware design, firmware architecture, and hardware-software co-design. My work spans register-level microcontroller programming, multi-layer PCB design, and RTL modeling & verification.
+Designing embedded hardware and low-level firmware, from custom PCB layouts to register-level C/C++ and communication interfaces.
 
 ---
 
