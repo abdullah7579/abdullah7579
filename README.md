@@ -9,6 +9,7 @@ Designing robust solutions across the silicon-to-board spectrum—from RTL model
 **HDL & Digital Design**  
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-blue?style=flat&logo=ieee) 
 ![Verilog](https://img.shields.io/badge/Verilog-darkblue?style=flat) 
+![FPGA](https://img.shields.io/badge/FPGA-Design-purple?style=flat) 
 ![Questa](https://img.shields.io/badge/Questa-teal?style=flat)
 
 **Embedded & Low-Level**  
