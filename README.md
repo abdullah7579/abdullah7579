@@ -1,7 +1,4 @@
-<h1>
-  <img src="https://api.iconify.design/mdi:integrated-circuit.svg?color=%23007acc" width="34" height="34" align="center" />
-  Embedded Systems Engineer
-</h1>
+# <sup><img src="https://api.iconify.design/mdi:integrated-circuit.svg?color=%23007acc" width="28" height="28" /></sup> Embedded Systems Engineer
 
 Designing robust solutions across the silicon-to-board spectrum—from RTL modeling and simulation to bare-metal microcontroller firmware and custom PCB engineering.
 
