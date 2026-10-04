@@ -24,7 +24,7 @@ Designing robust solutions across the silicon-to-board spectrum—from RTL model
 
 ---
 
-### 🚀 Highlighted Engineering Projects
+### ⚙️ Highlighted Engineering Projects
 
 #### 1. [Edge ASIC INT8 Neural Network Accelerator](https://github.com/gullhashim1/edgeasic-int8-accelerator)
 * **Stack:** `SystemVerilog` | `UVM` | `ASIC Toolchains` | `AXI4`
