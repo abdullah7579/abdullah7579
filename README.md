@@ -1,13 +1,4 @@
-<table>
-  <tr>
-    <td valign="middle" style="border: 0; padding: 0;">
-      <img src="https://api.iconify.design/mdi:integrated-circuit.svg?color=%23007acc" width="30" height="30" />
-    </td>
-    <td valign="middle" style="border: 0; padding-left: 8px;">
-      <h1 style="margin: 0; border: 0; padding: 0;">Embedded Systems Engineer</h1>
-    </td>
-  </tr>
-</table>
+# <img src="https://img.shields.io/badge/-%20Embedded%20Systems%20Engineer-0d1117?style=flat&logo=target&logo=data:image/svg%2bxml;utf8,<svg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'><path%20fill='%23007acc'%20d='M9%209h6v6H9V9m13%203v-2h-2V7a2%202%200%200%200-2-2h-3V3h-2v2h-2V3H9v2H7a2%202%200%200%200-2%202v3H3v2h2v2H3v2h2v3a2%202%200%200%200%202%202h3v2h2v-2h2v2h2v-2h3a2%202%200%200%200%202-2v-3h2v-2h-2v-2h2M18%2017H6V7h12v10Z'/></svg>&labelColor=0d1117" height="32" />
 
 Designing robust solutions across the silicon-to-board spectrum—from RTL modeling and simulation to bare-metal microcontroller firmware and custom PCB engineering.
 
