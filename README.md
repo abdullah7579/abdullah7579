@@ -1,4 +1,4 @@
-# ⚡ Embedded Systems Engineer
+# 📟 Embedded Systems Engineer
 
 Designing robust solutions across the silicon-to-board spectrum—from RTL modeling and simulation to bare-metal microcontroller firmware and custom PCB engineering.
 
