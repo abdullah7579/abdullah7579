@@ -21,6 +21,7 @@ Designing robust solutions across the silicon-to-board spectrum—from RTL model
 **EDA & Workflow**  
 ![KiCad](https://img.shields.io/badge/KiCad-blue?style=flat&logo=kicad) 
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
 ![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git)
 
 ---
