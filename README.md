@@ -15,7 +15,7 @@ Designing robust solutions across the silicon-to-board spectrum—from RTL model
 ![C](https://img.shields.io/badge/C-Informational?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-Informational?style=flat&logo=c%2B%2B&logoColor=white) 
 ![PIC](https://img.shields.io/badge/PIC18F-orange?style=flat) 
-![ESP32](https://img.shields.io/badge/ESP32-red?style=flat&logo=espressif)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 
 **EDA & Workflow**  
 ![KiCad](https://img.shields.io/badge/KiCad-blue?style=flat&logo=kicad) 
