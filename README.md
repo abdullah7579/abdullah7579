@@ -1,23 +1,26 @@
 # ⚡ Embedded Systems & Digital Design Engineer
 
-I am an Electrical Engineering undergraduate specializing in digital hardware design, firmware architecture, and hardware-software co-design. My work ranges from register-level microcontroller programming and PCB layout to RTL modeling and verification.
+I am an Electrical Engineering undergraduate specializing in digital hardware design, firmware architecture, and hardware-software co-design. My work spans register-level microcontroller programming, multi-layer PCB design, and RTL modeling & verification.
 
 ---
 
-### 🛠️ Core Tech Stack
+### 🛠️ Hardware & Software Toolkit
 
-<!-- Hardware & HDLs -->
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?style=for-the-badge&logo=ieee&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-2C3E50?style=for-the-badge)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**HDL & Digital Design**  
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-blue?style=flat&logo=ieee) 
+![Verilog](https://img.shields.io/badge/Verilog-darkblue?style=flat) 
+![Questa](https://img.shields.io/badge/Questa-teal?style=flat)
 
-<!-- EDA, Microcontrollers & Tools -->
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![PIC](https://img.shields.io/badge/Microchip_PIC-F15A24?style=for-the-badge)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Embedded & Low-Level**  
+![C](https://img.shields.io/badge/C-Informational?style=flat&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-Informational?style=flat&logo=c%2B%2B&logoColor=white) 
+![PIC](https://img.shields.io/badge/PIC18F-orange?style=flat) 
+![ESP32](https://img.shields.io/badge/ESP32-red?style=flat&logo=espressif)
+
+**EDA & Workflow**  
+![KiCad](https://img.shields.io/badge/KiCad-blue?style=flat&logo=kicad) 
+![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python) 
+![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git)
 
 ---
 
