@@ -1,6 +1,6 @@
 # ⚡ Embedded Systems Engineer
 
-Designing embedded hardware and low-level firmware, from custom PCB layouts to register-level C/C++ and communication interfaces.
+Designing robust solutions across the silicon-to-board spectrum—from RTL modeling and simulation to bare-metal microcontroller firmware and custom PCB engineering.
 
 ---
 
